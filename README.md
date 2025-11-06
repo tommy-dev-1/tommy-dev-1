@@ -1,247 +1,396 @@
 <div align="center">
-
-# 👋 مرحباً، أنا TOMMY | Welcome, I'm TOMMY
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00F7F7&center=true&vCenter=true&width=600&lines=%F0%9F%92%BB+Tools+Developer;%F0%9F%A4%96+Discord+Bots+Specialist;%F0%9F%8E%AF+Python+%26+JavaScript+Lover" alt="Typing SVG" />
-
-[![Discord](https://img.shields.io/badge/Discord-Skoda%20Studio-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/YhkyGV4Qd7)
-[![Location](https://img.shields.io/badge/%F0%9F%93%8D-Egypt-00B386?style=for-the-badge)](https://github.com/tommy-dev-1)
-[![Developer Program](https://img.shields.io/badge/GitHub-Developer%20Program-181717?style=for-the-badge&logo=github)](https://github.com/tommy-dev-1)
+  
+  <!-- Animated Wave Header -->
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,2,2,5,30&height=300&section=header&text=TOMMY&fontSize=90&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Discord%20Bot%20Specialist&descAlignY=51&descAlign=62&animation=twinkling" />
+  
+  <!-- Animated Typing -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=1000&color=6A5ACD&center=true&vCenter=true&multiline=true&width=800&height=100&lines=🚀+Building+Digital+Solutions;💻+Tools+Developer+%26+System+Architect;🤖+Discord+Bots+%7C+Automation+Expert" alt="Typing SVG" />
+  
+  <!-- Profile Badges -->
+  <p align="center">
+    <a href="https://discord.gg/YhkyGV4Qd7">
+      <img src="https://img.shields.io/badge/Discord-Join_Skoda_Studio-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=000000" />
+    </a>
+    <a href="https://github.com/tommy-dev-1">
+      <img src="https://img.shields.io/badge/GitHub-Developer_Program-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=6A5ACD" />
+    </a>
+    <img src="https://img.shields.io/badge/📍_Location-Egypt-00B386?style=for-the-badge&labelColor=000000" />
+  </p>
+  
+  <!-- Social Stats -->
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=tommy-dev-1&color=6A5ACD&style=for-the-badge&label=PROFILE+VIEWS" />
+    <img src="https://img.shields.io/github/followers/tommy-dev-1?style=for-the-badge&color=00B386&labelColor=000000&logo=github&label=FOLLOWERS" />
+    <img src="https://img.shields.io/github/stars/tommy-dev-1?style=for-the-badge&color=FFA500&labelColor=000000&logo=github&label=TOTAL+STARS" />
+  </p>
 
 </div>
 
----
+<!-- Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 🌟 نبذة عني | About Me
+## 💫 About Me
+
+<img align="right" width="400" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
 ```javascript
 const tommy = {
-    role: "Tools Developer 🛠️",
-    organization: "Developers Team",
+    role: "Full Stack Developer 🛠️",
+    company: "Skoda Studio",
     location: "🇪🇬 Egypt",
-    specialization: ["Discord Bots", "Automation Tools", "System Management"],
-    languages: ["JavaScript", "Python"],
-    currentFocus: "Building powerful Discord bot solutions",
-    funFact: "I turn ideas into functional tools! 🚀"
+    
+    expertise: [
+        "Discord Bot Development",
+        "Process Automation",
+        "System Architecture",
+        "API Integration"
+    ],
+    
+    techStack: {
+        languages: ["JavaScript", "Python", "TypeScript"],
+        backend: ["Node.js", "Express", "FastAPI"],
+        database: ["MongoDB", "PostgreSQL", "Redis"],
+        tools: ["Docker", "Git", "CI/CD"]
+    },
+    
+    currentFocus: "Building scalable Discord applications",
+    availability: "Open for collaboration",
+    
+    motto: "Transforming ideas into powerful solutions! 🚀"
 };
 ```
 
+<br clear="right"/>
+
+## 🏆 GitHub Achievements & Trophies
+
 <div align="center">
-
-### 🏆 إنجازات GitHub | GitHub Achievements
-
-[![Pull Shark](https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png)](https://github.com/tommy-dev-1)
-[![Quickdraw](https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png)](https://github.com/tommy-dev-1)
-[![YOLO](https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png)](https://github.com/tommy-dev-1)
-
+  
+  [![trophy](https://github-profile-trophy.vercel.app/?username=tommy-dev-1&theme=radical&no-frame=false&no-bg=false&margin-w=4&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+  
+  ### 🎯 Achievement Badges
+  
+  <p align="center">
+    <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="100" />
+    <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="100" />
+    <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="100" />
+    <img src="https://github.githubassets.com/images/modules/profile/achievements/starstruck-default.png" width="100" />
+  </p>
+  
 </div>
 
----
+<!-- Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 🛠️ التقنيات والأدوات | Technologies & Tools
+## 💻 Tech Stack & Skills
 
 <div align="center">
-
-### لغات البرمجة | Programming Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-
-### المكتبات والأطر | Libraries & Frameworks
-![Discord.py](https://img.shields.io/badge/Discord.py-5865F2?style=for-the-badge&logo=discord&logoColor=white)
-![Discord.js](https://img.shields.io/badge/Discord.js-5865F2?style=for-the-badge&logo=discord&logoColor=white)
-
-### الأدوات | Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
+  
+  ### 🚀 Programming Languages
+  
+  <p align="center">
+    <img src="https://skillicons.dev/icons?i=python,javascript,typescript,nodejs" />
+  </p>
+  
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+  ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+  
+  ### 🌐 Frameworks & Libraries
+  
+  <p align="center">
+    <img src="https://skillicons.dev/icons?i=react,express,discord,bots" />
+  </p>
+  
+  ![Discord.js](https://img.shields.io/badge/Discord.js-5865F2?style=for-the-badge&logo=discord&logoColor=white)
+  ![Discord.py](https://img.shields.io/badge/Discord.py-5865F2?style=for-the-badge&logo=discord&logoColor=white)
+  ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+  ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+  
+  ### 🛠️ Tools & Technologies
+  
+  <p align="center">
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,mongodb,postgres,redis,postman" />
+  </p>
+  
+  ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+  ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+  ![VS Code](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+  ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+  
 </div>
 
----
+<!-- Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 🎯 مشاريعي المميزة | Featured Projects
+## 🎯 Featured Projects
 
 <div align="center">
 
-### 🤖 Discord Bots Collection
+### 🤖 Discord Bot Collection
 
 <table>
-<tr>
-<td width="50%">
-
-#### 🎨 [Colors Discord Bot](https://github.com/tommy-dev-1/colors-discord-bot)
-⭐ 2 Stars | JavaScript
-> بوت متخصص في إدارة الألوان للأعضاء
-
-</td>
-<td width="50%">
-
-#### 🎙️ [Voice Support Bot](https://github.com/tommy-dev-1/Voice-support-bot)
-⭐ 2 Stars | JavaScript
-> نظام دعم صوتي متكامل
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-#### 🎮 [Skoda System Bot](https://github.com/tommy-dev-1/skoda-System-Bot)
-⭐ 3 Stars | JavaScript | MIT
-> نظام إدارة شامل لسيرفرات Discord
-
-</td>
-<td width="50%">
-
-#### 🎁 [Giveaway Bot](https://github.com/tommy-dev-1/giveaway-discord-bot)
-⭐ 1 Star | Python | MIT
-> بوت الهدايا والمسابقات
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-#### 📻 [Quran Radio Bot](https://github.com/tommy-dev-1/Quran-Radio-bot)
-⭐ 1 Star | Python | MIT
-> بوت إذاعة القرآن الكريم
-
-</td>
-<td width="50%">
-
-#### 🌐 [Translation Bot](https://github.com/tommy-dev-1/discord-bot-translation)
-⭐ 1 Star | Python | MIT
-> بوت الترجمة الفورية
-
-</td>
-</tr>
+  <tr>
+    <td align="center" width="50%">
+      <br>
+      <a href="https://github.com/tommy-dev-1/colors-discord-bot">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=tommy-dev-1&repo=colors-discord-bot&theme=radical&hide_border=true" />
+      </a>
+      <br>
+      <p><strong>🎨 Colors Management Bot</strong></p>
+      <p>Advanced color role management system for Discord servers</p>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000" />
+      <img src="https://img.shields.io/github/stars/tommy-dev-1/colors-discord-bot?style=social" />
+    </td>
+    <td align="center" width="50%">
+      <br>
+      <a href="https://github.com/tommy-dev-1/Voice-support-bot">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=tommy-dev-1&repo=Voice-support-bot&theme=radical&hide_border=true" />
+      </a>
+      <br>
+      <p><strong>🎙️ Voice Support System</strong></p>
+      <p>Comprehensive voice channel support management</p>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000" />
+      <img src="https://img.shields.io/github/stars/tommy-dev-1/Voice-support-bot?style=social" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <br>
+      <a href="https://github.com/tommy-dev-1/skoda-System-Bot">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=tommy-dev-1&repo=skoda-System-Bot&theme=radical&hide_border=true" />
+      </a>
+      <br>
+      <p><strong>🎮 Skoda System Bot</strong></p>
+      <p>All-in-one Discord server management solution</p>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000" />
+      <img src="https://img.shields.io/github/stars/tommy-dev-1/skoda-System-Bot?style=social" />
+    </td>
+    <td align="center" width="50%">
+      <br>
+      <a href="https://github.com/tommy-dev-1/giveaway-discord-bot">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=tommy-dev-1&repo=giveaway-discord-bot&theme=radical&hide_border=true" />
+      </a>
+      <br>
+      <p><strong>🎁 Giveaway Bot</strong></p>
+      <p>Automated giveaway and contest management</p>
+      <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff" />
+      <img src="https://img.shields.io/github/stars/tommy-dev-1/giveaway-discord-bot?style=social" />
+    </td>
+  </tr>
 </table>
 
-### 🔧 Utility Bots
+### 🔧 More Amazing Projects
 
-[![Auto Reply](https://github-readme-stats.vercel.app/api/pin/?username=tommy-dev-1&repo=Auto-reply-bot&theme=tokyonight)](https://github.com/tommy-dev-1/Auto-reply-bot)
-[![Welcome Bot](https://github-readme-stats.vercel.app/api/pin/?username=tommy-dev-1&repo=Welcome-bot-v.2.0&theme=tokyonight)](https://github.com/tommy-dev-1/Welcome-bot-v.2.0)
-
-</div>
-
----
-
-## 📊 إحصائيات GitHub | GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=tommy-dev-1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tommy-dev-1&layout=compact&langs_count=8&theme=tokyonight"/>
+<p align="center">
+  <a href="https://github.com/tommy-dev-1/Auto-reply-bot">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=tommy-dev-1&repo=Auto-reply-bot&theme=radical&hide_border=true" />
+  </a>
+  <a href="https://github.com/tommy-dev-1/Welcome-bot-v.2.0">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=tommy-dev-1&repo=Welcome-bot-v.2.0&theme=radical&hide_border=true" />
+  </a>
+</p>
 
 </div>
 
+<!-- Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## 📊 GitHub Analytics & Statistics
+
 <div align="center">
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tommy-dev-1&theme=tokyonight)](https://github.com/tommy-dev-1)
-
+  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=tommy-dev-1&show_icons=true&count_private=true&hide_border=true&title_color=FF00FF&icon_color=FF00FF&text_color=c9d1d9&bg_color=0d1117" alt="Tommy GitHub Stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tommy-dev-1&layout=compact&hide_border=true&title_color=FF00FF&text_color=c9d1d9&bg_color=0d1117&langs_count=8" alt="Top Languages" />
+  
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=tommy-dev-1&theme=radical&hide_border=true&stroke=0000&background=0D1117&ring=FF00FF&fire=FF00FF&currStreakLabel=FF00FF" alt="GitHub Streak" />
+  
+  ### 📈 Contribution Graph
+  
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tommy-dev-1&custom_title=Tommy's%20GitHub%20Activity%20Graph&bg_color=0d1117&color=FF00FF&line=FF00FF&point=ff0080&area_color=0d1117&title_color=FF00FF&area=true" alt="GitHub Activity Graph" />
+  
 </div>
 
----
+<!-- Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 🏢 المشاريع والمساهمات | Projects & Contributions
+## 🏢 GitHub Metrics
 
 <div align="center">
+  
+  ```yaml
+  📦 Total Repositories: 18+
+  ⭐ Total Stars Earned: 22+
+  🔀 Forks: Growing
+  👥 Followers: 3+
+  🎯 Open Source Contributions: Active
+  🚀 Projects Maintained: 10+
+  ```
+  
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tommy-dev-1&theme=radical" alt="GitHub Profile Summary" />
+  
+</div>
 
-```text
-📦 إجمالي المستودعات    18 Repository
-⭐ إجمالي النجوم         22+ Stars
-🔀 Fork                   0
-👁️ المتابعون             3 Followers
+<!-- Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## 💼 Core Competencies
+
+<div align="center">
+  
+  <table>
+    <tr>
+      <td width="50%">
+        
+### 🤖 Discord Bot Development
+
+```yaml
+Server Management:
+  - Role & Permission Systems
+  - Auto-moderation Tools
+  - Custom Command Creation
+  
+User Experience:
+  - Welcome & Leave Systems
+  - Leveling & Ranking
+  - Interactive Games
+  
+Advanced Features:
+  - Music & Radio Bots
+  - Voice Support Systems
+  - Real-time Translation
+  - Auto-reply Systems
 ```
 
-</div>
+      </td>
+      <td width="50%">
+        
+### 💻 Technical Proficiency
 
----
-
-## 💼 مهاراتي | My Skills
-
-<div align="center">
-
-### 🤖 تطوير بوتات Discord | Discord Bot Development
-```python
-✅ إدارة الخوادم والأدوار
-✅ أنظمة الترحيب والوداع
-✅ أنظمة الرتب والتقييم
-✅ بوتات الموسيقى والراديو
-✅ أنظمة الدعم الصوتي
-✅ بوتات الترجمة والرد التلقائي
+```yaml
+Languages:
+  - Python (Advanced)
+  - JavaScript/TypeScript (Expert)
+  - SQL (Proficient)
+  
+Development:
+  - API Design & Integration
+  - Database Architecture
+  - Microservices
+  - Cloud Deployment
+  
+Tools & Practices:
+  - Git Version Control
+  - CI/CD Pipelines
+  - Docker Containers
+  - Agile Methodologies
 ```
 
-### 💻 البرمجة | Programming
-```javascript
-✅ Python (Discord.py)
-✅ JavaScript (Discord.js, Node.js)
-✅ Git & GitHub Workflow
-✅ API Integration
-✅ Database Management
-```
-
+      </td>
+    </tr>
+  </table>
+  
 </div>
 
 ---
 
-## 📫 تواصل معي | Connect With Me
+## 📧 Let's Connect!
 
 <div align="center">
-
-[![Discord Server](https://img.shields.io/badge/Discord_Server-Join_Skoda_Studio-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/YhkyGV4Qd7)
-[![GitHub](https://img.shields.io/badge/GitHub-tommy--dev--1-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tommy-dev-1)
-[![Profile Views](https://komarev.com/ghpvc/?username=tommy-dev-1&color=blueviolet&style=for-the-badge)](https://github.com/tommy-dev-1)
-
-### 🎯 انضم إلى سيرفر Skoda Studio
-**Discord:** [https://discord.gg/YhkyGV4Qd7](https://discord.gg/YhkyGV4Qd7)
-
+  
+  <h3>🌍 Find me around the web</h3>
+  
+  <p align="center">
+    <a href="https://discord.gg/YhkyGV4Qd7">
+      <img src="https://img.shields.io/badge/Discord-Join_Skoda_Studio-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=000000" />
+    </a>
+    <a href="https://github.com/tommy-dev-1">
+      <img src="https://img.shields.io/badge/GitHub-Follow_Me-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=FF00FF" />
+    </a>
+    <a href="https://github.com/tommy-dev-1">
+      <img src="https://komarev.com/ghpvc/?username=tommy-dev-1&color=FF00FF&style=for-the-badge&label=PROFILE+VIEWS" />
+    </a>
+  </p>
+  
+  ### 🚀 Join Our Community
+  
+  <a href="https://discord.gg/YhkyGV4Qd7">
+    <img src="https://invidget.switchblade.xyz/YhkyGV4Qd7" alt="Discord Server" />
+  </a>
+  
 </div>
 
----
+<!-- Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 🎨 مشاريع مميزة أخرى | Other Notable Projects
+## 🎨 Additional Projects Showcase
 
 <div align="center">
-
-| المشروع | الوصف | اللغة | النجوم |
-|---------|-------|-------|--------|
-| [Skoda Studio](https://github.com/tommy-dev-1/skoda-Studio) | ملف تعريف فريق Skoda Studio | Profile | ⭐ 1 |
-| [Rules Bot](https://github.com/tommy-dev-1/Rules-discord-Bot) | بوت عرض القوانين | JavaScript | ⭐ 1 |
-| [Discord Rank Bot](https://github.com/tommy-dev-1/Discord-bot-rank) | نظام الرتب والتصنيف | JavaScript | ⭐ 1 |
-| [Line Bot](https://github.com/tommy-dev-1/line-discord-bot) | بوت الخطوط الفاصلة | JavaScript | ⭐ 1 |
-| [Broadcast Bot](https://github.com/tommy-dev-1/discord-bot-broadcast) | بوت البث الجماعي | JavaScript | ⭐ 1 |
-
+  
+| Project | Description | Language | Stars |
+|---------|-------------|----------|-------|
+| [🎯 **Skoda Studio**](https://github.com/tommy-dev-1/skoda-Studio) | Professional team profile and portfolio | Profile | ![Stars](https://img.shields.io/github/stars/tommy-dev-1/skoda-Studio?style=flat&color=yellow) |
+| [📝 **Rules Bot**](https://github.com/tommy-dev-1/Rules-discord-Bot) | Automated rules display system | JavaScript | ![Stars](https://img.shields.io/github/stars/tommy-dev-1/Rules-discord-Bot?style=flat&color=yellow) |
+| [🏅 **Rank Bot**](https://github.com/tommy-dev-1/Discord-bot-rank) | Advanced ranking and leveling system | JavaScript | ![Stars](https://img.shields.io/github/stars/tommy-dev-1/Discord-bot-rank?style=flat&color=yellow) |
+| [📏 **Line Bot**](https://github.com/tommy-dev-1/line-discord-bot) | Visual separator and formatting tool | JavaScript | ![Stars](https://img.shields.io/github/stars/tommy-dev-1/line-discord-bot?style=flat&color=yellow) |
+| [📡 **Broadcast Bot**](https://github.com/tommy-dev-1/discord-bot-broadcast) | Mass messaging and announcement system | JavaScript | ![Stars](https://img.shields.io/github/stars/tommy-dev-1/discord-bot-broadcast?style=flat&color=yellow) |
+  
 </div>
 
----
+<!-- Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 🌐 روابط مهمة | Important Links
+## 🌐 Quick Links & Resources
 
 <div align="center">
-
-[![Website](https://img.shields.io/badge/Website-Skoda_Studio-00D9FF?style=for-the-badge)](https://discord.gg/YhkyGV4Qd7)
-[![Documentation](https://img.shields.io/badge/Docs-Read_More-FFA500?style=for-the-badge)](https://github.com/tommy-dev-1)
-[![Support](https://img.shields.io/badge/Support-Get_Help-FF4B4B?style=for-the-badge)](https://discord.gg/YhkyGV4Qd7)
-
+  
+  <p align="center">
+    <a href="https://discord.gg/YhkyGV4Qd7">
+      <img src="https://img.shields.io/badge/🌐_Website-Skoda_Studio-00D9FF?style=for-the-badge&labelColor=000000" />
+    </a>
+    <a href="https://github.com/tommy-dev-1">
+      <img src="https://img.shields.io/badge/📚_Documentation-GitHub_Repos-FFA500?style=for-the-badge&labelColor=000000" />
+    </a>
+    <a href="https://discord.gg/YhkyGV4Qd7">
+      <img src="https://img.shields.io/badge/💬_Support-Get_Help-FF4B4B?style=for-the-badge&labelColor=000000" />
+    </a>
+  </p>
+  
 </div>
 
----
+<!-- Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <div align="center">
-
-### 💡 "Building tools that make a difference" 💡
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Thanks%20for%20visiting!%20شكراً%20للزيارة&fontSize=20&fontColor=fff&animation=twinkling" />
-
-**✨ إذا أعجبتك مشاريعي، لا تنسى وضع ⭐ على المستودعات!**
-
-**✨ If you like my projects, don't forget to star ⭐ the repositories!**
-
-![Snake animation](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg)
-
----
-
-© 2025 tommy-dev-1 | Skoda Studio Team 🚀
-
+  
+  <br>
+  
+  ### 💫 "Transforming Ideas Into Powerful Solutions" 💫
+  
+  <br>
+  
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
+  
+  <br><br>
+  
+  **✨ If you find value in my work, please consider giving a star ⭐ to my repositories!**
+  
+  <br>
+  
+  ![Snake animation](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)
+  
+  <br>
+  
+  <!-- Wave Footer -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,2,2,5,30&height=150&section=footer&text=Thank%20You%20For%20Visiting!&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=65" />
+  
+  <br>
+  
+  <p align="center">
+    <strong>© 2025 Tommy | Skoda Studio Team</strong> 🚀
+    <br>
+    <em>Made with ❤️ and lots of ☕</em>
+  </p>
+  
 </div>
